@@ -1,4 +1,4 @@
-The interactome can be visulized here on modern browsers: http://users.wpi.edu/~rosslagoy/interactome.html
+The interactome can be visulized here on modern browsers: http://www.rosslagoy.com/interactome.html
 
 Be sure to explore different options for parameters and discuss tradeoffs in your writeup.
 
